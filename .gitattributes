@@ -1,0 +1,2 @@
+# LF everywhere: Git Bash cannot run .sh files checked out with CRLF
+* text=auto eol=lf
